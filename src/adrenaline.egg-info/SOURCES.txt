@@ -1,0 +1,6 @@
+pyproject.toml
+src/adrenaline/__init__.py
+src/adrenaline.egg-info/PKG-INFO
+src/adrenaline.egg-info/SOURCES.txt
+src/adrenaline.egg-info/dependency_links.txt
+src/adrenaline.egg-info/top_level.txt
